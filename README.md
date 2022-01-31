@@ -1,2 +1,2 @@
 # space-tracker
-This is a demo for RStudio Pro Products
+A Python demo files that can be used with RStudio Team
