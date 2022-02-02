@@ -10,5 +10,5 @@ This video walks you through the step-by-step process of building and sharing Ju
 [![Building and Sharing Jupyter Notebooks on RStudio Team](https://img.youtube.com/vi/embed/J-JJAjo_5Ew/0.jpg)](https://www.youtube.com/watch?v=embed/J-JJAjo_5Ew)
 https://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg
   
-
-[![Building and Sharing Jupyter Notebooks on RStudio Team](https://img.youtube.com/vi/J-JJAjo_5Ew/0.jpg)](https://www.youtube.com/watch?v=J-JJAjo_5Ew)
+Click below to watch the video
+https://www.youtube.com/watch?v=J-JJAjo_5Ew
