@@ -7,4 +7,4 @@ RStudio Team is a bundle of RStudio's enterprise-grade professional software for
 
 Click on the image below to view our video that walks you through the step-by-step process of building and sharing Jupyter Notebooks using RStudio Team.
   
-[![Video Link: RStudio Team - Build and Share Jupyter Notebooks](https://img.youtube.com/vi/YOUR_ID/0.jpg)](https://www.youtube.com/watch?YOUR_ID)]
+[![Video Link: RStudio Team - Build and Share Jupyter Notebooks](https://img.youtube.com/vi/x8Wf8qXAGDI/0.jpg)](https://www.youtube.com/watch?x8Wf8qXAGDI)]
