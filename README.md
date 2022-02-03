@@ -5,7 +5,7 @@ RStudio Team is a bundle of RStudio's enterprise-grade professional software for
 
 ## Jupyter Notebooks
 
-Check out this demo for Jupyter Notebooks - hosted [here](https://colorado.rstudio.com/rsc/space-tracker/space_tracker.html 'here') on RStudio Connect.
+Check out this demo [here](https://colorado.rstudio.com/rsc/space-tracker/space_tracker.html 'here') for Jupyter Notebooks - hosted on RStudio Connect.
 
 Click on the image below to view our video that walks you through the building and sharing of this notebook using RStudio Team.
   
