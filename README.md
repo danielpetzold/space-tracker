@@ -9,5 +9,5 @@ Check out this Jupyter Notebook live [here](https://colorado.rstudio.com/rsc/spa
 
 Click on the image below to view our video that walks you through the building and sharing of this notebook using RStudio Team.
   
-[![Video Link: RStudio Team - Build and Share Jupyter Notebooks](https://img.youtube.com/vi/x8Wf8qXAGDI/0.jpg)](https://www.youtube.com/watch?v=x8Wf8qXAGDI)]
+[![Video Link: RStudio Team - Build and Share Jupyter Notebooks](https://img.youtube.com/vi/x8Wf8qXAGDI/0.jpg)](https://www.youtube.com/watch?v=x8Wf8qXAGDI)
 
